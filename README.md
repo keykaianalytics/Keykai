@@ -4,7 +4,7 @@ Keykai Analytics offers consulting services for data integration, visualization,
 
 ## Preview
 
-[![Creative Preview](https://keykaianalytics.github.io/Keykai/img/keykai.jpg)](http://www.keykai.com)
+[![Creative Preview](https://keykaianalytics.github.io/Keykai/img/keykai.jpg)](http://www.keykaianalytics.com)
 
 **[Visit website](http://www.keykaianalytics.com)**
 
